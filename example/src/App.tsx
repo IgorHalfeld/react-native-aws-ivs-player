@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: 'white',
   },
   welcome: {
     fontSize: 20,
@@ -52,7 +52,7 @@ export default function App() {
       <Button
         onPress={() => {
           this.player.load(
-            'https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8'
+            'https://bbbb9004793e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.241512772649.channel.FHhS8HL2LkkH.m3u8'
           );
         }}
         title="Play"
