@@ -1,6 +1,6 @@
 {
   "name": "react-native-aws-ivs-player",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "React native player view for AWS Interactive Video Service",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
