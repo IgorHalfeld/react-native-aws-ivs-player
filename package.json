@@ -1,6 +1,6 @@
 {
   "name": "react-native-aws-ivs-player",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React native player view for AWS Interactive Video Service",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-aws-ivs-player-view.podspec",
+    "react-native-aws-ivs-player.podspec",
     "!lib/typescript/example",
     "!**/__tests__",
     "!**/__fixtures__",
